@@ -1,4 +1,4 @@
-# 
+# 更新 DisplayFusion 扩展 Mac OS版 | 开源 DisplayFusion 扩展 PC Windows版。集成 警报通知 和 垃圾文件清理，跨平台性能最大化。
 
 
 
